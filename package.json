@@ -1,0 +1,23 @@
+{
+  "name": "jstone",
+  "version": "0.0.1",
+  "description": "yet one more language that compiles to js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sepulchered/jstone.git"
+  },
+  "keywords": [
+    "programming",
+    "language"
+  ],
+  "author": "sepulchered",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepulchered/jstone/issues"
+  },
+  "homepage": "https://github.com/sepulchered/jstone#readme"
+}
